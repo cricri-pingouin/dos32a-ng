@@ -1,4 +1,5 @@
 I only created this fork to host the compiled executable from viti95's fork.
+Check release for additional information.
 
 # DOS/32 Advanced DOS Extender (2021 next-gen!)
  
